@@ -30,6 +30,3 @@ For benchmarking changes to the code do the following:
 
 "Every chess master was once a beginner."
 (Irving Chernev)
-
-
-- Thomas Starke
