@@ -1,5 +1,5 @@
 # ShellChess
-Shell Chess is a text based brute force chess program for the Linux Terminal.
+Shell Chess is a text-based brute-force chess program for the Linux Terminal.
 
 
 Extract for ARM 64-Bit Linux:  
@@ -22,14 +22,14 @@ Just enter the move you want to make in small letters: **e2e4**
 Enter the command **side** to play the black pieces.
 
 
-For a much weaker opponent, enter **dpth** and after pressing Return, a number between **1** (very weak) and **3** (novice) with Return.
+To weaken the opponent, enter **dpth**, press Return, and choose a number between **1** (very weak) and **3** (novice).
 
 
 To make it faster, you can compile the program like this:  
 `clang -O3 -flto -o chess chess.c && strip chess`
 
 
-To benchmark modified code, perform the following commands:  
+If you have modified the code and want to benchmark it, use the following settings:  
 - **dpth** should be set to a matching depth of maybe **10**  
 - **extn** should be off to disable move extension  
 - **rand** should be off to disable random moves  
