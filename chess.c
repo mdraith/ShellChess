@@ -3628,7 +3628,7 @@ void loadgame()
 		return;
 	}
 	newgame();
-	printf("Reading %s...\n\n",filename);
+	printf("Reading %s...\n",filename);
 	fread(&view,2,1,infile);
 	fread(&j,2,1,infile);
 	for(i=1;i<=j;i++)
