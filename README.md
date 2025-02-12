@@ -30,7 +30,7 @@ To make it faster, you can compile the program like this:
 
 
 To benchmark modified code, perform the following commands:  
-- **dpth** should be set to a matching depth maybe **10**  
+- **dpth** should be set to a matching depth of maybe **10**  
 - **extn** should be off to disable move extension  
 - **rand** should be off to disable random moves  
 - **book** should be off to disable book openings  
