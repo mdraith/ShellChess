@@ -30,4 +30,3 @@ If you have modified the code and want to benchmark it, use the following settin
 
 "Every chess master was once a beginner."
 (Irving Chernev)
-
