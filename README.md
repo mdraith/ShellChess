@@ -2,10 +2,10 @@
 Shell Chess is a text-based brute-force chess program for the Linux Terminal.  
 
 Extract for ARM 64-Bit Linux:  
-`tar -xJf shellchess-linux-arm64-1.0.tar.xz`
+`tar -xJf shellchess-linux-aarch64-1.0.tar.xz`
 
 Extract for Intel or AMD 64-Bit Linux:  
-`tar -xJf shellchess-linux-x86_64-1.0.tar.xz`
+`tar -xJf shellchess-linux-x86-64-1.0.tar.xz`
 
 A new directory *ShellChess* will be created.
 
