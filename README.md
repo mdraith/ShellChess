@@ -1,6 +1,8 @@
 # ShellChess
 Shell Chess is a text-based brute-force chess program for the Linux Terminal.  
 
+If you don't have Linux, you could try the Smartphone app *Termux*.
+
 Extract for ARM 64-Bit Linux:  
 `tar -xJf shellchess-linux-aarch64-1.0.tar.xz`
 
