@@ -1,5 +1,5 @@
 # ShellChess
-Shell Chess is a text-based brute-force chess program for the Linux Terminal.  
+Shell Chess is a text-based brute-force chess program for the Linux terminal.  
 
 If you don't have Linux, try running it with the app *Termux* on your smartphone.
 
