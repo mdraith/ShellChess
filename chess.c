@@ -1,4 +1,4 @@
-// Shell Chess 1.00
+// ShellChess 1.00
 
 #include <stdio.h>
 #include <string.h>
@@ -98,7 +98,7 @@ char obi[2100],obj[2100],lj[100],ob[43490];
 short moveval[1000],counter[100];
 unsigned long hashpiece[121][15],hashep[121],hashtable[1000];
 char inp[5],filename[41];
-const char version[]="Shell Chess 1.00";
+const char version[]="ShellChess 1.00";
 
 void moves();
 void xmoves();
